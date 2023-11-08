@@ -6,6 +6,8 @@ print (dayofyear)
 dayofyear=dayofyear
 
 
+time=[487,937,535,985, 585, 1034, 635, 1080, 688, 1126, 742, 1171, 804, 1216, 202, 1261, 247, 1246, 290, 718]#11a
+
 '''
 #Column A: Day of the year
 #Column B: Time in hours:minutes
