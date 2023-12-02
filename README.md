@@ -1,4 +1,4 @@
 # astr19final
 Code repository for ASTR 19 final
 
-Download data and run dataset.py to load data
+Download GroupProjectlatest.ipynb for most up to date line of best fit
